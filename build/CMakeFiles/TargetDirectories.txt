@@ -1,0 +1,3 @@
+C:/Users/PRO B850-P WIFI/game/pacmap/build/CMakeFiles/pacmap.dir
+C:/Users/PRO B850-P WIFI/game/pacmap/build/CMakeFiles/edit_cache.dir
+C:/Users/PRO B850-P WIFI/game/pacmap/build/CMakeFiles/rebuild_cache.dir

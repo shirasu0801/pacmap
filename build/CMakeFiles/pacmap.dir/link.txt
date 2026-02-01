@@ -1,0 +1,1 @@
+C:\emsdk\upstream\emscripten\em++.bat -s WASM=1                     -s EXPORTED_RUNTIME_METHODS=['ccall','cwrap']                     -s ALLOW_MEMORY_GROWTH=1                     -s MODULARIZE=1                     -s EXPORT_NAME='createModule'                     -s ENVIRONMENT='web'                     -O2 @CMakeFiles\pacmap.dir\objects1.rsp -o pacmap.js
